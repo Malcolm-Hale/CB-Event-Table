@@ -1,6 +1,7 @@
 #To avoid grabbing data files
 *.csv
 *.sav
+*.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
